@@ -1,0 +1,23 @@
+# Trained weights and datasets are not published
+*.pth
+*.pt
+checkpoints/
+data/
+raw/
+best_focus/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# MATLAB
+*.asv
+*.mat
+
+# OS
+.DS_Store
+Thumbs.db
+results/
+Realtime/
