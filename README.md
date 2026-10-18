@@ -211,6 +211,15 @@ Full details are in the thesis: P. Salib, [*End-to-End Deep Learning-Driven Auto
 - The full dataset and trained weights are not included.
 - The labeling GUI and the zero-shot experiments are not part of this repository.
 
+## Project timeline
+
+- **August to December 2023:** data pipeline and first models: augmentation, best-focus selection, the train/validation/test split and the ResNet-18 baseline.
+- **By May 2024:** multi-class ResNet-101 model and the Raspberry Pi station scripts; thesis published on 27 May 2024.
+- **After the thesis:** deployed at Noreast Electronics.
+- **October 2026:** code cleaned up, documented and published here.
+
+The original scripts are preserved in this repository's history, dated from their file save times, under the [`v2024-thesis`](../../tree/v2024-thesis) tag. The only change to them is that a computer user name in two file paths was redacted.
+
 ## Acknowledgments
 
 - Noreast Electronics, industry partner for this work
